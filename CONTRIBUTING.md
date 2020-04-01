@@ -1,8 +1,7 @@
 # Contributing
 
-Contributions are welcome and encouraged for this community driven repository. All credit will be given to contributors work.
-
-This is 
+This is a community driven repository to provide examples using TensorFlow with Earth Engine. Contributions are welcome and 
+encouraged for this community driven repository. All credit will be given to contributors work.
 
 There are many ways one may contribute:
 
